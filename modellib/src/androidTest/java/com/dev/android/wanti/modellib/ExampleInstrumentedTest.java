@@ -1,4 +1,4 @@
-package com.dev.android.wanti.poc_repo;
+package com.dev.android.wanti.modellib;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.dev.android.wanti.poc_repo", appContext.getPackageName());
+        assertEquals("com.dev.android.wanti.modellib.test", appContext.getPackageName());
     }
 }

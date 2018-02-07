@@ -1,4 +1,4 @@
-package com.dev.android.wanti.poc_repo;
+package com.dev.android.wanti.modellib;
 
 import org.junit.Test;
 
